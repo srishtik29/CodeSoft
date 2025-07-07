@@ -1,0 +1,1 @@
+This repository contains the Python programming projects completed as part of my internship with **CodSoft**. Each project focuses on applying Python concepts to practical, hands-on tasks. The goal is to strengthen my understanding of the language while building real-world solutions.
